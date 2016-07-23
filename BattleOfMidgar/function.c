@@ -1,9 +1,3 @@
-function.c
-Détails
-Activité
-Aucune activité enregistrée.
-Tous les éléments ont été désélectionnés.
-
 /*
 ** function.c for  in /home/toumin_o/toumin_o/Battle_For_Midgar
 **
